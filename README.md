@@ -1,6 +1,6 @@
 <img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250" align="right">
 
-# Basecamp JavaScript I Stretch Project
+# Basecamp JavaScript I Stretch Project - for Troy Heine
 
 ## Objective
 Show an understanding of the JavaScript concepts taught in Basecamp up to this point.

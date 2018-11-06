@@ -1,7 +1,7 @@
 <img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250" align="right">
 
 # Basecamp JavaScript I Stretch Project - for Troy Heine
-# I wanted to add this line.
+# I wanted to add this line...
 
 ## Objective
 Show an understanding of the JavaScript concepts taught in Basecamp up to this point.
